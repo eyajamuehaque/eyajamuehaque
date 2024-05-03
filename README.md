@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eya Jamue Haque Jisan</h1>
 <h3 align="center">A CSE student from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif">
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzjMlDDZWlvw2UpbGUeyD3qE5mP_7KW6ATd1D-IvIQC0VTLvT8Aq22GZLRBon7et3qs9zgZaWGp1ufKi4bFiplst0YYhrhRG2A3PErB1lFDvG6UGCnINMqP8hE6hmxmLaZmT9nSznudXGdNRvIizrGSnQtDbEveLQ8x90_SUePCFKM4sz3bnHCsap4L0j2/s1920/eyajamuehaque.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyajamuehaque&label=Profile%20views&color=0e75b6&style=flat" alt="eyajamuehaque" /> </p>
 
