@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyajamuehaque&label=Profile%20views&color=0e75b6&style=flat" alt="eyajamuehaque" /> </p>
 
-- 🌱 I’m currently learning **C++,Java,Python**
+- 🌱 I’m currently learning **C++,Java,Python,C#,JavaScript**
 
 - 📫 How to reach me **eyajamuehaque@gmail.com**
 
