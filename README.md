@@ -52,11 +52,9 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyajamuehaque&theme=dark&hide_border=true&stroke=000000&background=0D1117&ring=0077B5&fire=0077B5" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?user=eyajamuehaque&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eyajamuehaque&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyajamuehaque&layout=compact&theme=transparent&title_color=0077B5&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
