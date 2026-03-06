@@ -1,66 +1,42 @@
-<div align="center">
+# Hi, I'm Eya Jamue Haque 👋
 
-# 👨‍💻 Eya Jamue Haque
-**📍 Dhaka, Bangladesh**
-**`Agentic Engineering Enthusiast` • `Full-Stack Architect` • `UX Strategist`**
+📍 Dhaka, Bangladesh | 🤖 Agentic Engineering Enthusiast | 🚀 Shipping Localized AI & Android Apps
 
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eyajamuehaque.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyajamuehaque/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eyajamuehaq/)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+> Deep in vibe-coding mode – building AI-powered developer tools and localized systems at ludicrous speed. After mastering the foundations of C++ and Digital Logic, modern web feels like a breath of fresh air.
 
-*Deep in **vibe-coding** mode—leveraging AI to build at ludicrous speed.*
-*Bridging the gap between low-level hardware logic and high-level agentic intelligence.*
+🍭 [eyajamuehaque.vercel.app](https://eyajamuehaque.vercel.app/) — Personal portfolio & project showcase.
 
-</div>
+## Current Projects
 
-### 🚀 Flagship Deployments
-*Current focus: Localized AI and high-utility management systems.*
+* 🕋 [Munajat AI](https://munajat-ai.netlify.app/) – Emotion-aware AI generating personalized Islamic prayers in Bengali.
+* 📍 [Biriyani Dibe Map](https://biriyanidibemap.blogspot.com/) – Real-time tracking for Biriyani locations during Ramadan.
+* 🏠 [To-Let Dhaka](https://to-let-dhaka.vercel.app/) – Map-centric rental discovery engine for Dhaka.
+* 🍱 [Meal Manager](https://mess-manager-jisan.netlify.app/) – Streamlined tracking for bachelor meals and mess expenses.
+* ⚖️ [Tender Selection](https://eyajamuehaque.github.io/Tender-Selection/) – Automated system for PPR Tender selection.
+* ☎️ [Hotline BD](https://hotline-numbers-bangladesh.vercel.app/) – One-stop directory for Bangladesh emergency services.
+* 🎧 [Customer Support](https://eyajamuehaque-customer-support.netlify.app/) – Interactive dashboard for ticket resolution and tracking.
+* 🐾 [PetCare Pro](https://github.com/eyajamuehaque/pet-management-system) – Full-stack ecosystem for pet services and adoption.
 
-| Project | Status | Description |
-| :--- | :---: | :--- |
-| **[Biriyani Dibe Map](https://biriyanidibemap.blogspot.com/)** | `LIVE` | Track live Biriyani Location in Ramdan |
-| **[Munajat AI](https://munajat-ai.netlify.app/)** | `LIVE` | Personalized Islamic prayers generated via emotion-aware AI. |
-| **[To-Let Dhaka](https://to-let-dhaka.vercel.app/)** | `BETA` | Advanced map-centric rental engine for the Dhaka metropolitan area. |
-| **[Meal Manager](https://mess-manager-jisan.netlify.app/)** | `LIVE` | Bachelor/Mess expense tracking. |
-| **[PetCare Pro](https://github.com/eyajamuehaque/pet-management-system)** | `DEV` | Full-stack veterinary and marketplace ecosystem. |
-| **[Tender Selection](https://eyajamuehaque.github.io/Tender-Selection/)** | `LIVE` | PPR Tender selection. |
-| **[Customer Support Dashboard](https://eyajamuehaque-customer-support.netlify.app/)** | `LIVE` | An interactive dashboard to manage, track, and resolve customer support tickets efficiently. |
-| **[Hotline Numbers Bangladesh](https://hotline-numbers-bangladesh.vercel.app/)** | `LIVE` | Find all the hotline numbers here. |
-| **[Insurance Management](https://github.com/eyajamuehaque/Insurance-Management-App)** | `LIVE` | A streamlined system for managing insurance packages, user subscriptions, and feedback efficiently. |
----
+## Legacy & Research
 
-### 🛠️ Technical Arsenal
-*Selected technologies I use to ship production-grade software.*
+* ⚡ [555-Timer Logic](https://github.com/eyajamuehaque/555-timer-astable) – Precision frequency control via hardware circuit engineering.
+* 📐 [OpenGL Graphics](https://github.com/eyajamuehaque/opengl-graphics) – Raw coordinate animations and matrix transformations in C++.
+* ⚙️ [Compiler Design](https://github.com/eyajamuehaque/compiler-design) – Implementing DFA/NFA and parsing algorithms.
+* 🛡️ [Parental Guard](https://github.com/eyajamuehaque/parental-control-app) – Remote Android control via accessibility services.
 
-* **Frontend & Design:** `React` `Next.js` `Tailwind CSS` `Figma`
-* **Mobile & Systems:** `React Native` `Kotlin` `C++` `OpenGL`
-* **Intelligence:** `LLM Prompting` `Agentic Workflows` `Cursor` `Claude Code`
-* **Infrastructure:** `Firebase` `Vercel` `Google Cloud` `Git/GitHub`
+## What I'm Doing
 
----
+* **Living in the future** – Learning and building tools to make agentic engineering faster for everyone.
+* **Rapid prototyping** – Full applications in days, not months.
+* **Localized Impact** – Creating tech that solves specific challenges for the Bengali community.
 
-### 🏛️ Legacy & Research
-*Foundational work in engineering and logic.*
+## Connect
 
-* **[555-Timer Logic](https://github.com/eyajamuehaque/555-timer-astable):** Hardware circuit engineering with precision frequency control.
-* **[OpenGL Graphics](https://github.com/eyajamuehaque/opengl-graphics):** C++ matrix transformations and raw coordinate animations.
-* **[Compiler Design](https://github.com/eyajamuehaque/compiler-design):** DFA/NFA implementation and parsing algorithm research.
+* 💼 [LinkedIn](https://www.linkedin.com/in/eyajamuehaque/)
+* 👥 [Facebook](https://www.facebook.com/eyajamuehaq/)
+* 📬 [Portfolio](https://eyajamuehaque.vercel.app/)
 
 ---
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyajamuehaque&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyajamuehaque&layout=compact&theme=transparent&title_color=0077B5&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
-<div align="center">
-    
-*"The best way to predict the future is to build it."* **[Let's build something together →](https://eyajamuehaque.vercel.app/)**
-
-</div>
+*“The best way to predict the future is to build it.”*
