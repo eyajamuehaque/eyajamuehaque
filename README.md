@@ -1,26 +1,68 @@
-<h1 align="center">Hi 👋, I'm Eya Jamue Haque Jisan</h1>
-<h3 align="center">A CSE student from Bangladesh</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzjMlDDZWlvw2UpbGUeyD3qE5mP_7KW6ATd1D-IvIQC0VTLvT8Aq22GZLRBon7et3qs9zgZaWGp1ufKi4bFiplst0YYhrhRG2A3PErB1lFDvG6UGCnINMqP8hE6hmxmLaZmT9nSznudXGdNRvIizrGSnQtDbEveLQ8x90_SUePCFKM4sz3bnHCsap4L0j2/s1920/eyajamuehaque.gif">
+# 👨‍💻 Eya Jamue Haque
+**📍 Dhaka, Bangladesh**
+**`Agentic Engineering Enthusiast` • `Full-Stack Architect` • `UX Strategist`**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyajamuehaque&label=Profile%20views&color=0e75b6&style=flat" alt="eyajamuehaque" /> </p>
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eyajamuehaque.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyajamuehaque/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eyajamuehaq/)
 
-- 🌱 I’m currently learning **C++,Java,Python,C#,JavaScript**
+---
 
-- 📫 How to reach me **eyajamuehaque111@gmail.com**
+*Deep in **vibe-coding** mode—leveraging AI to build at ludicrous speed.*
+*Bridging the gap between low-level hardware logic and high-level agentic intelligence.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eyajamuehaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyajamuehaque" height="30" width="40" /></a>
-<a href="https://fb.com/jisan.faraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jisan.faraji" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jisanfaraji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jisanfaraji" height="30" width="40" /></a>
+</div>
+
+### 🚀 Flagship Deployments
+*Current focus: Localized AI and high-utility management systems.*
+
+| Project | Status | Description |
+| :--- | :---: | :--- |
+| **[Biriyani Dibe Map](https://biriyanidibemap.blogspot.com/)** | `LIVE` | Track live Biriyani Location in Ramdan |
+| **[Munajat AI](https://munajat-ai.netlify.app/)** | `LIVE` | Personalized Islamic prayers generated via emotion-aware AI. |
+| **[To-Let Dhaka](https://to-let-dhaka.vercel.app/)** | `BETA` | Advanced map-centric rental engine for the Dhaka metropolitan area. |
+| **[Meal Manager](https://mess-manager-jisan.netlify.app/)** | `LIVE` | Bachelor/Mess expense tracking. |
+| **[PetCare Pro](https://github.com/eyajamuehaque/pet-management-system)** | `DEV` | Full-stack veterinary and marketplace ecosystem. |
+| **[Tender Selection](https://eyajamuehaque.github.io/Tender-Selection/)** | `LIVE` | PPR Tender selection. |
+| **[Customer Support Dashboard](https://eyajamuehaque-customer-support.netlify.app/)** | `LIVE` | An interactive dashboard to manage, track, and resolve customer support tickets efficiently. |
+| **[Hotline Numbers Bangladesh](https://hotline-numbers-bangladesh.vercel.app/)** | `LIVE` | Find all the hotline numbers here. |
+| **[Insurance Management](https://github.com/eyajamuehaque/Insurance-Management-App)** | `LIVE` | A streamlined system for managing insurance packages, user subscriptions, and feedback efficiently. |
+---
+
+### 🛠️ Technical Arsenal
+*Selected technologies I use to ship production-grade software.*
+
+* **Frontend & Design:** `React` `Next.js` `Tailwind CSS` `Figma`
+* **Mobile & Systems:** `React Native` `Kotlin` `C++` `OpenGL`
+* **Intelligence:** `LLM Prompting` `Agentic Workflows` `Cursor` `Claude Code`
+* **Infrastructure:** `Firebase` `Vercel` `Google Cloud` `Git/GitHub`
+
+---
+
+### 🏛️ Legacy & Research
+*Foundational work in engineering and logic.*
+
+* **[555-Timer Logic](https://github.com/eyajamuehaque/555-timer-astable):** Hardware circuit engineering with precision frequency control.
+* **[OpenGL Graphics](https://github.com/eyajamuehaque/opengl-graphics):** C++ matrix transformations and raw coordinate animations.
+* **[Compiler Design](https://github.com/eyajamuehaque/compiler-design):** DFA/NFA implementation and parsing algorithm research.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyajamuehaque&theme=dark&hide_border=true&stroke=000000&background=0D1117&ring=0077B5&fire=0077B5" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?user=eyajamuehaque&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5" alt="GitHub Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyajamuehaque&show_icons=true&locale=en&layout=compact" alt="eyajamuehaque" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyajamuehaque&show_icons=true&locale=en" alt="eyajamuehaque" /></p>
+<div align="center">
+    
+*"The best way to predict the future is to build it."* **[Let's build something together →](https://eyajamuehaque.vercel.app/)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyajamuehaque&" alt="eyajamuehaque" /></p>
+</div>
