@@ -11,6 +11,8 @@
 ## Current Projects
 
 * 🕋 [Munajat AI](https://munajat-ai.netlify.app/) – Emotion-aware AI generating personalized Islamic prayers in Bengali.
+* 🖐️ [Hand Gesture RPS](https://eyajamuehaque.github.io/Hand-Gesture-Rock-Paper-Scissors-via-Webcam/) – Rock-Paper-Scissors played via webcam using real-time hand gesture recognition.
+* 🧠 [MemoMaster](https://memomaster-game.vercel.app/) – A high-performance cognitive memory game built for the web.
 * 📍 [Biriyani Dibe Map](https://biriyanidibemap.blogspot.com/) – Real-time tracking for Biriyani locations during Ramadan.
 * 🏠 [To-Let Dhaka](https://to-let-dhaka.vercel.app/) – Map-centric rental discovery engine for Dhaka.
 * 🍱 [Meal Manager](https://mess-manager-jisan.netlify.app/) – Streamlined tracking for bachelor meals and mess expenses.
@@ -18,13 +20,6 @@
 * ☎️ [Hotline BD](https://hotline-numbers-bangladesh.vercel.app/) – One-stop directory for Bangladesh emergency services.
 * 🎧 [Customer Support](https://eyajamuehaque-customer-support.netlify.app/) – Interactive dashboard for ticket resolution and tracking.
 * 🐾 [PetCare Pro](https://github.com/eyajamuehaque/pet-management-system) – Full-stack ecosystem for pet services and adoption.
-
-## Legacy & Research
-
-* ⚡ [555-Timer Logic](https://github.com/eyajamuehaque/555-timer-astable) – Precision frequency control via hardware circuit engineering.
-* 📐 [OpenGL Graphics](https://github.com/eyajamuehaque/opengl-graphics) – Raw coordinate animations and matrix transformations in C++.
-* ⚙️ [Compiler Design](https://github.com/eyajamuehaque/compiler-design) – Implementing DFA/NFA and parsing algorithms.
-* 🛡️ [Parental Guard](https://github.com/eyajamuehaque/parental-control-app) – Remote Android control via accessibility services.
 
 ## What I'm Doing
 
